@@ -59,8 +59,9 @@
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ashutoch&hide_border=true&background=1C1C1C&ring=FF6F61&fire=FF6F61&currStreakLabel=FF6F61&sideLabels=F5E8D8&dates=F5E8D8&currStreakNum=F5E8D8&sideNums=F5E8D8" />
-  <img width="53%" src="https://streak-stats.demolab.com?user=ashutoch&hide_border=true&background=FFFFFF&ring=D2691E&fire=D2691E&currStreakLabel=D2691E&sideLabels=3D2817&dates=3D2817&currStreakNum=3D2817&sideNums=3D2817" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ashutoch&hide_border=true&background=1C1C1C&stroke=FF6F61&ring=FF6F61&fire=FF6F61&currStreakLabel=FF6F61&sideLabels=F5E8D8&dates=F5E8D8&currStreakNum=F5E8D8&sideNums=F5E8D8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ashutoch&hide_border=true&background=FFFFFF&stroke=D2691E&ring=D2691E&fire=D2691E&currStreakLabel=D2691E&sideLabels=3D2817&dates=3D2817&currStreakNum=3D2817&sideNums=3D2817" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=ashutoch&hide_border=true&background=1C1C1C&stroke=FF6F61&ring=FF6F61&fire=FF6F61&currStreakLabel=FF6F61&sideLabels=F5E8D8&dates=F5E8D8&currStreakNum=F5E8D8&sideNums=F5E8D8" width="60%" />
 </picture>
 
 </div>
