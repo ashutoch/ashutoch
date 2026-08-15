@@ -46,15 +46,22 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-8antc9aev-ashus-projects-c053df50.vercel.app/api?username=ashutoch&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=1C1C1C&title_color=FF6F61&icon_color=FF6F61&text_color=F5E8D8" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-phi-ten-64.vercel.app/api?username=ashutoch&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=1C1C1C&title_color=FF6F61&icon_color=FF6F61&text_color=F5E8D8" />
+  <img height="165" src="https://github-readme-stats-phi-ten-64.vercel.app/api?username=ashutoch&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&title_color=D2691E&icon_color=D2691E&text_color=3D2817" />
+</picture>
 
-<img height="165" src="https://github-readme-stats-8antc9aev-ashus-projects-c053df50.vercel.app/api/top-langs/?username=ashutoch&layout=compact&hide_border=true&langs_count=8&bg_color=1C1C1C&title_color=FF6F61&text_color=F5E8D8" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-phi-ten-64.vercel.app/api/top-langs/?username=ashutoch&layout=compact&hide_border=true&langs_count=8&bg_color=1C1C1C&title_color=FF6F61&text_color=F5E8D8" />
+  <img height="165" src="https://github-readme-stats-phi-ten-64.vercel.app/api/top-langs/?username=ashutoch&layout=compact&hide_border=true&langs_count=8&bg_color=FFFFFF&title_color=D2691E&text_color=3D2817" />
+</picture>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=ashutoch&hide_border=true&background=1C1C1C&ring=FF6F61&fire=FF6F61&currStreakLabel=FF6F61&sideLabels=F5E8D8&dates=F5E8D8&currStreakNum=F5E8D8&sideNums=F5E8D8" width="53%" />
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ashutoch&hide_border=true&background=1C1C1C&ring=FF6F61&fire=FF6F61&currStreakLabel=FF6F61&sideLabels=F5E8D8&dates=F5E8D8&currStreakNum=F5E8D8&sideNums=F5E8D8" />
+  <img width="53%" src="https://streak-stats.demolab.com?user=ashutoch&hide_border=true&background=FFFFFF&ring=D2691E&fire=D2691E&currStreakLabel=D2691E&sideLabels=3D2817&dates=3D2817&currStreakNum=3D2817&sideNums=3D2817" />
+</picture>
 
 </div>
 
