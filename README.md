@@ -46,16 +46,25 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-phi-ten-64.vercel.app/api?username=ashutoch&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=1C1C1C&title_color=FF6F61&icon_color=FF6F61&text_color=F5E8D8#gh-dark-mode-only" />
-<img height="165" src="https://github-readme-stats-phi-ten-64.vercel.app/api?username=ashutoch&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&title_color=D2691E&icon_color=D2691E&text_color=3D2817#gh-light-mode-only" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-phi-ten-64.vercel.app/api?username=ashutoch&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=1C1C1C&title_color=FF6F61&icon_color=FF6F61&text_color=F5E8D8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-phi-ten-64.vercel.app/api?username=ashutoch&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&title_color=D2691E&icon_color=D2691E&text_color=3D2817" />
+  <img height="165" alt="GitHub Stats" src="https://github-readme-stats-phi-ten-64.vercel.app/api?username=ashutoch&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=1C1C1C&title_color=FF6F61&icon_color=FF6F61&text_color=F5E8D8" />
+</picture>
 
-<img height="165" src="https://github-readme-stats-phi-ten-64.vercel.app/api/top-langs/?username=ashutoch&layout=compact&hide_border=true&langs_count=8&bg_color=1C1C1C&title_color=FF6F61&text_color=F5E8D8#gh-dark-mode-only" />
-<img height="165" src="https://github-readme-stats-phi-ten-64.vercel.app/api/top-langs/?username=ashutoch&layout=compact&hide_border=true&langs_count=8&bg_color=FFFFFF&title_color=D2691E&text_color=3D2817#gh-light-mode-only" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-phi-ten-64.vercel.app/api/top-langs/?username=ashutoch&layout=compact&hide_border=true&langs_count=8&bg_color=1C1C1C&title_color=FF6F61&text_color=F5E8D8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-phi-ten-64.vercel.app/api/top-langs/?username=ashutoch&layout=compact&hide_border=true&langs_count=8&bg_color=FFFFFF&title_color=D2691E&text_color=3D2817" />
+  <img height="165" alt="Top Languages" src="https://github-readme-stats-phi-ten-64.vercel.app/api/top-langs/?username=ashutoch&layout=compact&hide_border=true&langs_count=8&bg_color=1C1C1C&title_color=FF6F61&text_color=F5E8D8" />
+</picture>
 
 <br><br>
 
-<img width="60%" src="https://streak-stats.demolab.com?user=ashutoch&hide_border=true&background=1C1C1C&stroke=FF6F61&ring=FF6F61&fire=FF6F61&currStreakLabel=FF6F61&sideLabels=F5E8D8&dates=F5E8D8&currStreakNum=F5E8D8&sideNums=F5E8D8#gh-dark-mode-only" />
-<img width="60%" src="https://streak-stats.demolab.com?user=ashutoch&hide_border=true&background=FFFFFF&stroke=D2691E&ring=D2691E&fire=D2691E&currStreakLabel=D2691E&sideLabels=3D2817&dates=3D2817&currStreakNum=3D2817&sideNums=3D2817#gh-light-mode-only" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ashutoch&hide_border=true&background=1C1C1C&stroke=FF6F61&ring=FF6F61&fire=FF6F61&currStreakLabel=FF6F61&sideLabels=F5E8D8&dates=F5E8D8&currStreakNum=F5E8D8&sideNums=F5E8D8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ashutoch&hide_border=true&background=FFFFFF&stroke=D2691E&ring=D2691E&fire=D2691E&currStreakLabel=D2691E&sideLabels=3D2817&dates=3D2817&currStreakNum=3D2817&sideNums=3D2817" />
+  <img width="53%" alt="Streak Stats" src="https://streak-stats.demolab.com?user=ashutoch&hide_border=true&background=1C1C1C&stroke=FF6F61&ring=FF6F61&fire=FF6F61&currStreakLabel=FF6F61&sideLabels=F5E8D8&dates=F5E8D8&currStreakNum=F5E8D8&sideNums=F5E8D8" />
+</picture>
 
 </div>
 
