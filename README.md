@@ -46,15 +46,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashutoch&show_icons=true&hide_border=true&bg_color=1C1C1C&title_color=FF6F61&icon_color=FF6F61&text_color=F5E8D8" width="100%" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ashutoch&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=1C1C1C&title_color=FF6F61&icon_color=FF6F61&text_color=F5E8D8" />
 
-<br/><br/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoch&layout=compact&hide_border=true&langs_count=8&bg_color=1C1C1C&title_color=FF6F61&text_color=F5E8D8" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoch&layout=compact&hide_border=true&bg_color=1C1C1C&title_color=FF6F61&text_color=F5E8D8" width="100%" />
+<br><br>
 
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ashutoch&hide_border=true&background=1C1C1C&ring=FF6F61&fire=FF6F61&currStreakLabel=FF6F61&sideLabels=F5E8D8&dates=F5E8D8&currStreakNum=FFFFFF&sideNums=FFFFFF" width="100%" />
+<img src="https://streak-stats.demolab.com?user=ashutoch&hide_border=true&background=1C1C1C&ring=FF6F61&fire=FF6F61&currStreakLabel=FF6F61&sideLabels=F5E8D8&dates=F5E8D8&currStreakNum=F5E8D8&sideNums=F5E8D8" width="53%" />
 
 </div>
 
