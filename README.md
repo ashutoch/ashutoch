@@ -45,15 +45,17 @@
 ### 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ashutoch&show_icons=true&hide_border=true&bg_color=1C1C1C&title_color=FF6F61&icon_color=FF6F61&text_color=F5E8D8&ring_color=FF6F61" />
-  &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoch&layout=compact&hide_border=true&bg_color=1C1C1C&title_color=FF6F61&text_color=F5E8D8" />
-</div>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=ashutoch&show_icons=true&hide_border=true&bg_color=1C1C1C&title_color=FF6F61&icon_color=FF6F61&text_color=F5E8D8" width="100%" />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashutoch&hide_border=true&background=1C1C1C&ring=FF6F61&fire=FF6F61&currStreakLabel=FF6F61&sideLabels=F5E8D8&dates=F5E8D8&currStreakNum=FFFFFF&sideNums=FFFFFF" width="53%" />
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoch&layout=compact&hide_border=true&bg_color=1C1C1C&title_color=FF6F61&text_color=F5E8D8" width="100%" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ashutoch&hide_border=true&background=1C1C1C&ring=FF6F61&fire=FF6F61&currStreakLabel=FF6F61&sideLabels=F5E8D8&dates=F5E8D8&currStreakNum=FFFFFF&sideNums=FFFFFF" width="100%" />
+
 </div>
 
 ---
